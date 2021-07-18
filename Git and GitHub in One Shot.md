@@ -31,7 +31,7 @@ So, let's start to learn Git by knowing it's different commands.
 	- You can do `git checkout <commit hash code>` to go to previous commits. You can also use this to come to the latest commit, or you can do:
 	- `git checkout <branch name>` to come to the latest commit back (obviously, of that branch).
 		- Or you can also mention name of other branches to switch between them.
-- YOUR BRANCHES START WITH THE ==MASTER== BRANCH. YOU CAN CREATE INFINITE NO. OF BRANCHES INSIDE IT.
+- YOUR BRANCHES START WITH THE ==MAIN== BRANCH. YOU CAN CREATE INFINITE NO. OF BRANCHES INSIDE IT.
 - `git branch <branch name>` - to create a new branch.
 - `git branch` - to see all the branches.
 - `git checkout -b <branch name>` - first you had to create a new branch and then checkout in it to work in it.
